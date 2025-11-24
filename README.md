@@ -1,4 +1,4 @@
-#🏠 Istanbul Neighborhood Recommendation System# llama-hackathon
+# 🏠 Istanbul Neighborhood Recommendation System# llama-hackathon
 https://ulasav.csb.gov.tr/dataset/34-mahalle-bazli-bina-analiz-verisi
 
 An intelligent AI-powered real estate recommendation system that helps users find the perfect neighborhood in Istanbul based on their preferences, using LLM-based natural language understanding, vector embeddings, and comprehensive Istanbul datasets.https://sonuc.ysk.gov.tr/sorgu
