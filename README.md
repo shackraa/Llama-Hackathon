@@ -1,4 +1,4 @@
-🏠 Istanbul Neighborhood Recommendation System# llama-hackathon
+#🏠 Istanbul Neighborhood Recommendation System# llama-hackathon
 https://ulasav.csb.gov.tr/dataset/34-mahalle-bazli-bina-analiz-verisi
 
 An intelligent AI-powered real estate recommendation system that helps users find the perfect neighborhood in Istanbul based on their preferences, using LLM-based natural language understanding, vector embeddings, and comprehensive Istanbul datasets.https://sonuc.ysk.gov.tr/sorgu
@@ -10,7 +10,7 @@ Pythonhttps://sonuc.ysk.gov.tr/sorgu
 Flaskhttps://data.ibb.gov.tr/
 
 Terminal 1: Start your API
-📋 Table of Contentspython api_endpoint_v2.py
+#📋 Table of Contentspython api_endpoint_v2.py
 Project Description
 
 Features# Terminal 2: Test it
@@ -23,11 +23,11 @@ Installation# Then open index.html in browser
 
 Usage
 
-API Documentation# 🏠 Istanbul Neighborhood Recommendation System - Complete Package
+#API Documentation# 🏠 Istanbul Neighborhood Recommendation System - Complete Package
 
 Data Sources
 
-Development Notes## 📦 What's Included
+#Development Notes## 📦 What's Included
 
 Team Members
 
@@ -41,7 +41,7 @@ api_endpoint_v2.py - Flask API server (main backend)
 ---2. main_v4.py - Agent with reasoning and recommendations
 
 groq_llm_init.py - Groq LLM wrapper
-🎯 Project Description4. vector_db_creation.py - ChromaDB setup
+#🎯 Project Description4. vector_db_creation.py - ChromaDB setup
 The Istanbul Neighborhood Recommendation System is an AI-powered agent that helps users discover ideal neighborhoods in Istanbul based on natural language queries. The system combines:### Frontend Files:
 
 index.html - Beautiful web interface
@@ -71,8 +71,8 @@ python api_endpoint_v2.py
 
 ---```
 
-✨ FeaturesOr double-click START_API.bat
-🧠 AI-Powered Understanding### Step 2: Open Frontend
+#✨ FeaturesOr double-click START_API.bat
+#🧠 AI-Powered Understanding### Step 2: Open Frontend
 Natural Language Queries: Express preferences conversationallyOpen index.html in your browser
 
 Context Extraction: Automatically extracts budget, amenities, safety concerns, and lifestyle preferences
@@ -96,7 +96,7 @@ Population Density: Quiet vs vibrant neighborhoods- Endpoint: POST /api/recommen
 
 Request: {"query": "user query here"}
 
-📊 Rich Data Integration- Port: 5001
+#📊 Rich Data Integration- Port: 5001
 959 Istanbul Neighborhoods with detailed metrics
 
 Earthquake Simulation Data from Istanbul Metropolitan Municipality### To integrate:
@@ -157,7 +157,7 @@ Vanilla JavaScript: No framework overhead---
 
 Responsive Design: Mobile-first approach
 
-✨ Key Features
+#✨ Key Features
 Data Processing
 NumPy: Numerical computations### 1. Intelligent Understanding
 
@@ -168,7 +168,7 @@ JSON: Data interchange format- Extracts implicit requirements (e.g., "green area
 Provides reasoning for its decisions
 
 2. Smart Filtering
-🏗 System Architecture- Budget calculations
+#🏗 System Architecture- Budget calculations
 Amenity requirements (schools, parks, restaurants)
 
 ┌─────────────────────────────────────────────────────────────┐- Green space requirements
